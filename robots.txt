@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://victoraalves.github.io/sitemap.xml
