@@ -18,15 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 👋 
 
-I am a Ph.D. Student (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
+I am a 3th year Ph.D. Student in Economics at [West Virginia University](https://www.wvu.edu/), and Graduate Research Assistant of the [Regional Research Institute](https://rri.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Economics. Aditionally I have a degree in management and a certificate in accounting and university teaching. 
 
-Throughout my career, I have developed algorithms and methods to efficiently solve problems related
-to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
+Throughout my career, I have worked in the private and public sector and as a researcher (+5 years) and teacher (+2 years) in Brazil. My research interests are in empirical and theoretical analyses of economic growth and development at international or regional scales on topics such as infrastructure development, macro policy and stability, governance and institutions, trade and globalization, and technology and innovation.
 
-- Process modeling
-- Advanced process control
-- Plantwide control
-- Nonlinear constrained optimization
-- Supervised machine learning.
-
-My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors.
+My research has been presented and published in conferences and journals in Brazil, the United States and Europe.
