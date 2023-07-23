@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Some of my repositories that are related to my Process System Engineering and Chemical Engineering work.
+description: Some of my repositories that are related to data and programming that were used in some of my research.
 nav: true
 nav_order: 3
 ---

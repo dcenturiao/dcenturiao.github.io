@@ -267,8 +267,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Alves, Cunha Alves]
-  first_name: [Victor, Victor M. C., Victor Manuel, Victor Manuel Cunha, V. M. C., Victor MC, VMC]
+  last_name: [Centuriao, Amorim Souza Centuriao]
+  first_name: [Daniel, Daniel A. S. Centuriao, DAS Centuriao, Daniel Amorim Souza Centuriao, Daniel Centuriao]
 
   style: apa
   locale: en
