@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolima.faculty.wvu.edu/'>CODES Research Group</a>.
+subtitle: Ph.D. Student in Economics and Graduate Research Assistant at <a href='https://rri.wvu.edu/'>Regional Research Institute - RRI</a>.
 
 profile:
   align: right
-  image: victor_alves.jpg
+  image: daniel_centuriao.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
