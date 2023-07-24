@@ -2,97 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Victor Alves
+      value: Daniel Centuriao
     - name: Languages
       value: English, Portuguese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate (ABD status), Chemical Engineering
+    - title: PhD Student, Economics
       institution: West Virginia University, USA
-      year: Aug 2020 - currently
+      year: Aug 2021 - currently
       description:
-        - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
-        - <u>GPA:<u> 3.80/4.00
+        - Under Dr. Brad Humphreys advisory.
+        - <u>GPA:<u> 3.65/4.00
         - contents:
-            - Development of emerging techniques for process operability calculations, involving mainly supervised machine-learning, constrained nonlinear programming (NLP) and automatic differentiation (AD) for efficient algorithms development.
-            - Development of an open-source python package for process operability calculations, for ease of use and dissemination of operability algorithms in academia and industry.
-        - title: Control, Optimization and Design for Energy and Sustainability (CODES) Research Group leader.
+            - GRA Regional Research Institute
+            - GRA Bureau of Business and Economic Research
+            - <u>Fields:<u> Regional and Urban Economics, Macroeconomics.
+        - title: 
           contents:
-            - CODES Research Group leader, supervising group activities, as well as organizing the group's semester schedule, workshops, weekly meetings and relevant announcements.
-    - title: Master's Degree (M.Sc.), Chemical Engineering
-      institution: Federal University of Campina Grande, Brazil
-      year: Sep 2017 -  Mar 2020
+            - 
+    - title: Master's Degree (M.Sc.), Economics
+      institution: Western Parana State University, Brazil
+      year: Jan 2016 -  Mar 2018
       description:
-        - Metamodel-based Numerical Techniques for Self-Optimizing Control.
+        - <u>Determinants of value-added and employment in Brazilian industry:<u> deindustrialization and economic growth
         - <u>Academic Coefficient:<u>  10.00/10.00
         - contents: 
-          - Developed a methodology capable of using Gaussian Process Regression (GPR) to aid the selection of controlled variables (CVs) in an industrial process, following the Self-Optimizing Control (SOC) methodology.
-       
-    - title: Exchange Student (International), Chemical Engineering
-      institution: University of Birmingham, United Kingdom
-      year: Sep 2014 - Aug 2015
-      description: 
-        - Exchange Student, participating in the "Science Without Borders" Brazilian scientific mobility program.
-        - <u>British Degree Classification:<u> Upper Second
-
-    - title: Bachelor of Science, Chemical Engineering 
-      institution: Federal University of Campina Grande, Brazil
-      year: Mar 2012 - Mar 2017
+          - Analysed determinants of variations in value-added and employment in the industry, as well as the structural factors that influenced these variations for the period from 1990 to 2014.
+    - title: Bachelor of Arts, Economics 
+      institution: Federal University of Mato Grosso do Sul, Brazil
+      year: Jan 2010 - Jan 2016
       description:
         - <u>Academic Coefficient:<u> 8.69/10.00
 
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher and Developer
-      institution: Federal University of Campina Grande
-      year: Sep 2018 - Mar 2020
+    - title: Researcher
+      institution: Regional Research Institute
+      year: May 2022 - Currenty
       description:
-        - Research and development of a software called BRPWC for Petrobras, an automated software capable of easily selecting the most promising self-optimizing control structures in large-scale, industrial processes.
-    - title: Process Engineering Intern
-      institution: SigmaCT as a contractor to Braskem
-      year: Mar 2017 - Sep 2017
+        - Research and proposal writing for research grants such as CDFI, Russel Sage, SOPHE, Human Institute.
+    - title: Researcher    
+      institution: Bureau of Business and Economic Research
+      year: Aug 2021 - May 2022
       description:
-        - Experience in Vinyl Chloride Monomer (VCM) and Polyvinyl Chloride (PVC) production plants.
-
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://meta-control.net/">Metacontrol</a>
-      year: 2019 - currently
-      description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-    - title: Python-based process operability package
-      year: 2022 - currently
-      description: A Python-based package that encapsulates all process operability algorithms in a single bundle fashion, allowing for simultaneous design and control of chemical processes in a easy, open-source environment.
+        - Preparation of databases, data visualization elements such as maps and graphs, help in the preparation of reports and presentations.
+    - title: Assistant Professor
+      institution: State University of Mato Grosso do Sul
+      year: Jan 2019 - May 2021
+      description:
+        - Lecture planning, syllabus development, teaching, exam proctoring and grading.
+    - title: Assistant Professor
+      institution: Federal University of Mato Grosso do Sul
+      year: Jan 2019 - Dec 2019
+      description:
+        - Lecture planning, syllabus development, teaching, exam proctoring and grading.    
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2023
       items: 
-        - Sweeney D., Alves V., Sakhai S., Dinh S. and Lima F. V. Techno-economic Optimization of a Palladium Membrane Reactor for Steam Methane Reforming Industrial Process. AIChE Annual Student Conference, Phoenix, AZ. 2022.
-
-        - 3rd place at the 2022 AIChE undergraduate student poster competition award. Computing and Process Control Group II.
-
+        - Research Assistantship, Regional Research Institute WVU
+    - year: 2021
+      items: 
+        - Research Assistantship, Bureau of Business and Economic Research WVU
+    - year: 2017
+      items: 
+        - Scholarship, Masters Degree Program in Economics CNPQ/Capes
+    - year: 2015
+      items: 
+        - Top 7, undergraduate student thesis
+        - Best, undergraduate student thesis in Mato Grosso do Sul
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Process Operability Analysis
+    - title: Development and Growth
       items: 
-        - Development of process operability algorithms and methodologies to facilitate the application in academia and industry, allowing synergy between conceptual design and overall objectives attainment of industrial processes.
-    - title: Supervised machine learning applied to problems of engineering significance.
+        - Drivers of urban and regional growth and development.
+    - title: Urban Transportation
       items:
-        - Expertise in using Gaussian Process Regression (GPR) for mapping of steady-state and dynamic process models of the chemical industry.
-    - title: Plantwide control
+        - Amenities and Disadvantages of City Transportation Systems.
+    - title: Economic Impact Analysis
       items:
-        - Expertise in developing plantwide control strategies of large-scale, plantwide systems of the industry. 
-        - Development of algorithms and tools to facilitate the obtainment of plantwide control structures.
+        - Policy analysis and evaluation in regional and urban levels.
+    - title: Economic Impact Analysis
+      items:
+        - Policy analysis and evaluation in regional and urban levels.
+    - title: Spatial Econometrics
+      items:
+        - Agglomeration patterns and spatial autocorrelation of economic activity.
+         
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Traveling, Soccer, Video games.
+    - <u>Hobbies:</u> Traveling, Reading, Fishing.
