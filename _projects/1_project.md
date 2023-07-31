@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Metacontrol
-description: Metacontrol is a Python-based software that assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-img: assets/img/metacontrol.JPG
-redirect: https://meta-control.net
+title: Book Chapter
+description: Covid-19 - impacts of the pandemic on the Brazilian economy.
+img: assets/img/Book_Covid.JPG
+redirect: https://www.amazon.com.br/Covid-19-impactos-pandemia-economia-brasileira-ebook/dp/B096WN1YLD
 importance: 1
 category: work
 ---
