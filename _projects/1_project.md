@@ -5,7 +5,7 @@ description: Covid-19 - impacts of the pandemic on the Brazilian economy.
 img: assets/img/Book_Covid.JPG
 redirect: https://www.amazon.com.br/Covid-19-impactos-pandemia-economia-brasileira-ebook/dp/B096WN1YLD
 importance: 1
-category: work
+category: books
 ---
 
 Every project has a beautiful feature showcase page.
