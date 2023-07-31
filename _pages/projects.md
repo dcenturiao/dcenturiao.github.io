@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Please find below the projects that I am involved in.
+description: Here you will find some products from projects I have been involved in during my career.
 nav: true
 nav_order: 2
-display_categories: work
+display_categories: book
 horizontal: false
 ---
 
