@@ -23,3 +23,5 @@ I am a 3rd year Ph.D. Student in Economics at [West Virginia University](https:/
 Throughout my career, I have worked in the private and public sector and as a researcher (+5 years) and teacher (+2 years) in Brazil. My research interests are in empirical and theoretical analyses of economic growth and development at international or regional scales on topics such as infrastructure development, macro policy and stability, governance and institutions, trade and globalization, and technology and innovation.
 
 My research has been presented and published in conferences and journals in Brazil, the United States and Europe. Here I share a little about myself, my ideas, research and career.
+
+My working papers can be found on my [SSRN repository](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6215328).
