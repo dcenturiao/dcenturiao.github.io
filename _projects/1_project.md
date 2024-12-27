@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Book Chapter
-description: I wrote one of the chapters of this book published in Brazil in Portuguese describing the results of a survey conducted with businesspeople on the uncertainties associated with COVID-19. The survey was carried out right at the beginning of the lockdown policies in March 2020.
+description: I wrote one of the chapters of this book published in Brazil in Portuguese describing the results of a survey conducted with business managers on the uncertainties associated with COVID-19. The survey was carried out right at the beginning of the lockdown policies in March 2020.
 img: assets/img/Book_Covid.jpg
 redirect: https://www.amazon.com.br/Covid-19-impactos-pandemia-economia-brasileira-ebook/dp/B096WN1YLD
 importance: 1
