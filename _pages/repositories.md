@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: Some of my repositories that are related to data and programming that were used in some of my research.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 ## GitHub users

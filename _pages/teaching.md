@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Here are the record and materials for courses I taught.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 **[West Virginia University](https://www.wvu.edu/)**
