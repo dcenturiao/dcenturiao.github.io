@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here are the record and materials for courses I taught. My **[Teaching Philosophy](https://drive.google.com/file/d/17AepSps1lIms3tEYDTv1Sz0NA7rWj3O1/view?usp=drive_link)** is simple inspire curiosity, promote critical thinking, and support my students as they grow into their potential.
+description: Here are the record and materials for courses I taught. My <a href='https://drive.google.com/file/d/17AepSps1lIms3tEYDTv1Sz0NA7rWj3O1/view?usp=drive_link'>Teaching Philosophy</a> is simple. I want to inspire curiosity, promote critical thinking, and support my students as they grow into their potential.
 nav: true
 nav_order: 2
 ---
