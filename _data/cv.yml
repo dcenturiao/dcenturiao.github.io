@@ -4,7 +4,7 @@
     - name: Full Name
       value: Daniel Centuriao
     - name: Languages
-      value: English, Portuguese
+      value: English, Portuguese (Native)
 
 - title: Education
   type: time_table
@@ -14,12 +14,18 @@
       year: Aug 2021 - currently
       description:
         - Under Dr. Brad Humphreys advisory.
-        - <u>GPA:<u> 3.70/4.00
+        - <u>GPA:<u> 3.76/4.00
         - contents:
-            - GRA Regional Research Institute
-            - GRA Bureau of Business and Economic Research
             - <u>Fields:<u> Regional and Urban Economics, Macroeconomics.
-    - title: Master's Degree (M.Sc.), Economics
+    title: Master's Degree (M.S.), Economics
+      institution: West Virginia University, USA
+      year: Aug 2021 -  Aug 2023
+      description:
+        - <u>Can construction sites affect the occurrence of motor vehicle accidents in cities?<u> 
+        - <u>Academic Coefficient:<u>  3.76/4.00
+        - contents: 
+          - Analysed determinants of variations in value-added and employment in the industry, as well as the structural factors that influenced these variations for the period from 1990 to 2014.        
+    - title: Master's Degree (M.S.), Economics
       institution: Western Parana State University, Brazil
       year: Jan 2016 -  Mar 2018
       description:
@@ -27,7 +33,7 @@
         - <u>Academic Coefficient:<u>  10.00/10.00
         - contents: 
           - Analysed determinants of variations in value-added and employment in the industry, as well as the structural factors that influenced these variations for the period from 1990 to 2014.
-    - title: Bachelor of Arts, Economics 
+    - title: Bachelor of Science, Economics 
       institution: Federal University of Mato Grosso do Sul, Brazil
       year: Jan 2010 - Jan 2016
       description:
@@ -40,7 +46,7 @@
       institution: Regional Research Institute
       year: May 2022 - Currenty
       description:
-        - Research and proposal writing for research grants such as CDFI, Russel Sage, SOPHE, Human Institute.
+        - Research assistance and proposal writing for research grants such as CDFI, Russel Sage, SOPHE, Institute of Humane Studies.
     - title: Researcher    
       institution: Bureau of Business and Economic Research
       year: Aug 2021 - May 2022
@@ -57,12 +63,18 @@
       description:
         - Lecture planning, syllabus development, teaching, exam proctoring and grading.    
 
-- title: Honors and Awards
+- title: Grants and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Best Graduate Student Paper Award, Mid-Continent Regional Science Association
     - year: 2023
       items: 
         - Research Assistantship, Regional Research Institute WVU
+     year: 2022
+      items: 
+        - Northeast Regional Science Association/North American Regional Science Association Summer School at Cornell Tech
     - year: 2021
       items: 
         - Research Assistantship, Bureau of Business and Economic Research WVU
@@ -71,31 +83,25 @@
         - Scholarship, Masters Degree Program in Economics CNPQ/Capes
     - year: 2015
       items: 
-        - Top 7, undergraduate student thesis
-        - Best, undergraduate student thesis in Mato Grosso do Sul
+        - Best undergraduate student thesis in Economics nationally
+        - Best undergraduate student thesis in Mato Grosso do Sul state
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Development and Growth
+    - title: Urban and Regional Economics
       items: 
         - Drivers of urban and regional growth and development.
-    - title: Urban Transportation
+    - title: Transportation
       items:
-        - Amenities and Disadvantages of City Transportation Systems.
-    - title: Economic Impact Analysis
+        - Amenities and disadvantages of city transportation systems.
+    - title: Policy Design and Evaluation
       items:
-        - Policy analysis and evaluation in regional and urban levels.
-    - title: Regional Finance and Banking
-      items:
-        - Differential monetary policy effects and heterogeneities in banking system functioning.
-    - title: Spatial Econometrics
-      items:
-        - Agglomeration patterns and spatial autocorrelation of economic activity.
-         
+        - Application of causal inference, spatial econometrics and IO analysis to improve or measure the effects of policies in regions.
+     
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Traveling, Reading, Fishing, Cooking.
+    - <u>Hobbies:</u> Outside of academia, I find joy in exploring the world through traveling, immersing myself in stories while reading, unwinding by fishing in beautiful lakes, and expressing creativity through cooking specially Italian food.
