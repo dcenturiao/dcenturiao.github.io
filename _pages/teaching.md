@@ -9,80 +9,56 @@ nav_order: 5
 
 [West Virginia University](https://www.wvu.edu/)
 
-ECON 202: Principles of Macroeconomics (Summer 2024)
-Class size: 26
-Syllabus
+**ECON 202: Principles of Macroeconomics (Summer 2024)**  
+**Class size:** 26  
+[Syllabus (Download)](/path/to/econ202_syllabus.pdf)
 
 [State University of Mato Grosso do Sul - Brazil](https://www.uems.br/home)
 
-I was the instructor of all this courses in the Geography department on the State University of Mato Grosso do Sul - Campo Grande campuses. I was responsible for prepare the syllabus, teaching, grading and advice the students throught out the courses providing office hours. The courses were thought in Brazilian portuguese. Because of COVID-19 those courses were mainly tought online with regular classes.
+I was the instructor of all these courses in the **Geography department** on the State University of Mato Grosso do Sul - Campo Grande campuses. I was responsible for **preparing the syllabus, teaching, grading, and advising students** throughout the courses by providing office hours. The courses were taught in **Brazilian Portuguese.** Because of **COVID-19**, those courses were mainly taught online with regular classes.
 
-Economic Geography (Spring 2020)
+**Economic Geography (Spring 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/economic_geography_syllabus.pdf)
 
-Description:
+**History of Economic Thought (Spring 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/history_economic_thought_syllabus.pdf)
 
-Class size:
+**Quantitative Methods (Fall 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/quantitative_methods_syllabus.pdf)
 
-Syllabus
+**Spatial Economics (Fall 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/spatial_economics_syllabus.pdf)
 
-History of Economic Thought (Spring 2020)
+**Entrepreneurship and Innovation (Fall 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/entrepreneurship_innovation_syllabus.pdf)
 
-Description:
-
-Class size:
-
-Syllabus
-
-Quantitative Methods (Fall 2020)
-
-Description:
-
-Class size:
-
-Syllabus
-
-Spatial Economics (Fall 2020)
-
-Description:
-
-Class size:
-
-Syllabus
-
-Entrepreneurship and Innovation (Fall 2020)
-
-Description:
-
-Class size:
-
-Syllabus
-
-Project Management (Fall 2020)
-
-Description:
-
-Class size:
-
-Syllabus
+**Project Management (Fall 2020)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/project_management_syllabus.pdf)
 
 [State University of Mato Grosso do Sul - Brazil](https://www.ufms.br/)
 
-Principles of Economics (Fall/Summer 2019)
+**Principles of Economics (Fall/Summer 2019)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/principles_economics_syllabus.pdf)
 
-Description:
+**Introduction to Business (Fall/Summer 2019)**  
+**Description:**  
+**Class size:**  
+[Syllabus (Download)](/path/to/introduction_business_syllabus.pdf)
 
-Class size:
+**Selected student comments** on instruction for the most recent courses taught:  
 
-Syllabus
-
-Introduction to Business (Fall/Summer 2019)
-
-Description:
-
-Class size:
-
-Syllabus
-
-Selected student comments on instruction for the most recent courses tought:
-
-Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements. (From ECON 202 Summer 2024)
+*"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From **ECON 202 Summer 2024**)

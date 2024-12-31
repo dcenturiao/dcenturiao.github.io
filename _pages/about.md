@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate in Economics and Graduate Research Assistant at <a href='https://rri.wvu.edu/'>Regional Research Institute - RRI</a>.
 
