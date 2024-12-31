@@ -7,58 +7,45 @@ nav: true
 nav_order: 5
 ---
 
-[West Virginia University](https://www.wvu.edu/)
+**[West Virginia University](https://www.wvu.edu/)**
 
-**ECON 202: Principles of Macroeconomics (Summer 2024)**  
-**Class size:** 26  
+ECON 202: Principles of Macroeconomics (Summer 2024) 
+Class size: 26  
 [Syllabus (Download)](/path/to/econ202_syllabus.pdf)
 
-[State University of Mato Grosso do Sul - Brazil](https://www.uems.br/home)
+**[State University of Mato Grosso do Sul - Brazil](https://www.uems.br/home)**
 
 I was the instructor of all these courses in the **Geography department** on the State University of Mato Grosso do Sul - Campo Grande campuses. I was responsible for **preparing the syllabus, teaching, grading, and advising students** throughout the courses by providing office hours. The courses were taught in **Brazilian Portuguese.** Because of **COVID-19**, those courses were mainly taught online with regular classes.
 
 **Economic Geography (Spring 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/economic_geography_syllabus.pdf)
+Description:  
+
 
 **History of Economic Thought (Spring 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/history_economic_thought_syllabus.pdf)
+Description:  
+
 
 **Quantitative Methods (Fall 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/quantitative_methods_syllabus.pdf)
+Description:  
+
 
 **Spatial Economics (Fall 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/spatial_economics_syllabus.pdf)
+Description:  
 
 **Entrepreneurship and Innovation (Fall 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/entrepreneurship_innovation_syllabus.pdf)
+Description:
 
 **Project Management (Fall 2020)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/project_management_syllabus.pdf)
+Description:
 
-[State University of Mato Grosso do Sul - Brazil](https://www.ufms.br/)
+**[State University of Mato Grosso do Sul - Brazil](https://www.ufms.br/)**
 
 **Principles of Economics (Fall/Summer 2019)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/principles_economics_syllabus.pdf)
+Description:
 
 **Introduction to Business (Fall/Summer 2019)**  
-**Description:**  
-**Class size:**  
-[Syllabus (Download)](/path/to/introduction_business_syllabus.pdf)
+Description:
 
-**Selected student comments** on instruction for the most recent courses taught:  
+**Selected student comments on instruction for the most recent courses taught:**  
 
-*"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From **ECON 202 Summer 2024**)
+*"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From ECON 202 Summer 2024)
