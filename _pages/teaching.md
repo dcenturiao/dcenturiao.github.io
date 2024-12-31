@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here are the record and materials for courses I taught.
+description: Here are the record and materials for courses I taught. My [Teaching Philosophy](assets/pdf/teaching_philosophy_centuriao.pdf) is simple inspire curiosity, promote critical thinking, and support my students as they grow into their potential.
 nav: true
 nav_order: 2
 ---
 
 **[West Virginia University](https://www.wvu.edu/)**
 
-ECON 202: Principles of Macroeconomics (Summer 2024) 
+ECON 202: Principles of Macroeconomics (Summer 2024)
+
 Class size: 26  
 [Syllabus (Download)](/path/to/econ202_syllabus.pdf)
 
