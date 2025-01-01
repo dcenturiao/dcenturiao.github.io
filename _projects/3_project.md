@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workbook
+title: Workbook Innovation Management
 description: My co-author and I prepared this workbook for management courses at Faculdade Novoeste as teaching material for the Innovation Management course taught to various online business and management undergraduate courses. The workbook is accompanied by a set of exercises, video lessons and a podcast recorded by me and is part of the university's exclusive content, which can only be accessed by its students.
 img: assets/img/Book_Innovation.jpg
 redirect: 
