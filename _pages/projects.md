@@ -5,7 +5,10 @@ title: Projects
 description: Here you will find some products from projects I have been involved in during my career.
 nav: true
 nav_order: 4
-display_categories: book
+display_categories: 
+  - Book Chapter
+  - Book
+  - Workbook 
 horizontal: false
 ---
 
