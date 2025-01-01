@@ -12,6 +12,7 @@ nav_order: 2
 ECON 202: Principles of Macroeconomics (Summer 2024)
 
 Class size: 26 students
+
 [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
 
 **[State University of Mato Grosso do Sul - Brazil](https://www.uems.br/home)**
