@@ -9,9 +9,11 @@ nav_order: 2
 
 **[West Virginia University](https://www.wvu.edu/)**
 
-ECON 202: Principles of Macroeconomics (Summer 2024)
+**ECON 202: Principles of Macroeconomics (Summer 2024)**
 
 Class size: 26 students
+
+General evaluation: 4.00/5.00
 
 [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
 
@@ -48,3 +50,7 @@ Description: Offered a foundational understanding of business operations, includ
 **Selected student comments on instruction for the most recent courses taught:**  
 
 *"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From ECON 202 Summer 2024)
+
+*"The resources were organized very well. There was an appropriate amount of learning materials to feel prepared for exams."* (From ECON 202 Summer 2024)
+
+*"The assignments helped a lot and the exam prep materials."* (From ECON 202 Summer 2024)
