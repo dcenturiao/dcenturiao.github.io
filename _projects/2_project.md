@@ -2,7 +2,7 @@
 layout: page
 title: Book Chapter
 description: This book is the result of a comprehensive research project carried out jointly with researchers from the State University of Mato Grosso do Sul. The project was financed by the Superintendência do Desenvolvimento do Centro-Oeste (SUDECO). SUDECO is a government agency for financing projects and planning in the center-west region of Brazil. The project makes a detailed characterization of the economic, logistical and demographic aspects associated with the Latin American Integration Route or Bioceanic Route which aims to connect the ports of Brazil to those of Chile passing through the state of Mato Grosso do Sul in Brazil.
-img: assets/img/Book_RILA.jpg
+img: assets/img/Book_RILA.jpeg
 redirect: https://www.uems.br/pagina/uems-na-rota
 importance: 2
 category: book
