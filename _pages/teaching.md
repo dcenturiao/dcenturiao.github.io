@@ -39,13 +39,21 @@ Description: Focused on the principles of entrepreneurship, with an emphasis on 
 **Project Management (Fall 2020)**  
 Description: Introduced the fundamentals of project planning and execution, emphasizing project writing, proposal development, and resource allocation. Students also learned to use tools like Gantt charts and project management software to streamline processes and improve decision-making.
 
-**[State University of Mato Grosso do Sul - Brazil](https://www.ufms.br/)**
+**[Federal University of Mato Grosso do Sul - Brazil](https://www.ufms.br/)**
 
-**Principles of Economics (Fall/Summer 2019)**  
+The Federal University of Mato Grosso do Sul is the **biggest university** of the state with about **29,164** students among undergraduates and graduates. I've taught in the Campo Grande campuses in the School of Management and Business in the courses of **Economics** and **Business**, but I've also serve to a double appointment teaching **Principles of Economics and Business** to other departments like **Computer Engineering and Chemistry**, which gave me experience teaching to broader fields audiences.
+
+**Principles of Economics (Spring/Fall 2019)**  
 Description: Delivered a comprehensive overview of both microeconomic and macroeconomic principles. The course emphasized foundational concepts such as supply and demand, market structures, fiscal policy, and economic growth, with a focus on their real-world applications.
 
-**Introduction to Business (Fall/Summer 2019)**  
+**Introduction to Business (Spring/Fall 2019)**  
 Description: Offered a foundational understanding of business operations, including management, marketing, finance, and organizational behavior. The course also explored the role of business in society and introduced students to core business strategies and practices.
+
+**Brazilian Economy (Fall 2019)**
+Description: Analyzed the historical and contemporary aspects of Brazil's economic development, focusing on key topics such as industrialization, inflation, trade policies, and income distribution. The course also examined challenges and opportunities within Brazil’s economic structure, emphasizing the impact of public policies and global economic trends.
+
+**Principles of Macroeconomics (Spring 2019)**
+Description: Introduced fundamental concepts in macroeconomics, including GDP, inflation, unemployment, and fiscal and monetary policy. The course emphasized the role of government and international trade in shaping economic growth and stability, providing students with tools to analyze macroeconomic indicators and policy implications.
 
 **Selected student comments on instruction for the most recent courses taught:**  
 
