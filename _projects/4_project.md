@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Workbook
-description: I wrote one of the chapters of this book published in Brazil in Portuguese describing the results of a survey conducted with business managers on the uncertainties associated with COVID-19. The survey was carried out right at the beginning of the lockdown policies in March 2020.
-img: assets/img/Book_Covid.jpg
-redirect: https://www.amazon.com.br/Covid-19-impactos-pandemia-economia-brasileira-ebook/dp/B096WN1YLD
+description: I prepared this workbook for management courses at Faculdade Novoeste as teaching material for the Innovation Management course taught to various online business and management undergraduate courses. The workbook is accompanied by a set of exercises, video lessons and a podcast recorded by me and is part of the university's exclusive content, which can only be accessed by its students.
+img: assets/img/Book_Smart.jpg
+redirect: 
 importance: 2
 category: Workbook
 ---
