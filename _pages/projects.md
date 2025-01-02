@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: Projects
-description: Here you will find some products from projects I have been involved in during my career. The products are classified into categories (e.g. Book Chapter, Book, etc.) and are the result of different collaborative research or teaching projects. These collaborations took place with different universities and researchers, mostly in Brazil.
+description: Here you will find some products from projects I have been involved during my career. The products are classified into categories (e.g. Book Chapter, Book, etc.) and are the result of different collaborative research or teaching projects. These collaborations took place with different universities and researchers, mostly in Brazil.
 nav: true
 nav_order: 4
 display_categories: 
