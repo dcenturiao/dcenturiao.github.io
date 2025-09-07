@@ -30,6 +30,12 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 **Identification and Analysis of the Evolution of Local Productive Arrangements**, (2021), with Caroline Welter and Luiz Cypriano.  
   *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
 
+## Policy Briefs and Reports
+
+**The impact of West Virginia University Federal Research Grant Funding on the state’s economy**, (2025), with Heather Stephens.  
+  *Regional Research Institute*, West Virginia University. [Link](https://researchrepository.wvu.edu/rri_pubs/226/)
+
+
 <details>
   <summary><strong>Other Publications: click to view full list</strong></summary>
 
@@ -48,3 +54,19 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 ---
 
 ## Working Papers
+
+**Simulating the local economic losses and regional spillover effects caused by catastrophic wildfires**, with coauthors. (Under Review)  
+
+**Fiscal competition or ideological alignment? A study on the spatial diffusion of income tax policies**, with Joshua Hall. (Under Review)    
+
+## Working in Progress
+
+**The external cost of city development dynamics**, dissertation chapter, with Brad Humphreys and Heather Stephens.  
+
+**Traffic externalities of subway extensions**, with Palak Suri.  
+
+**The traffic externalities of sports events**, dissertation chapter.  
+
+**On the government growth**.  
+
+**Closing the Digital Divide: New Insights on U.S. Broadband Availability**.
