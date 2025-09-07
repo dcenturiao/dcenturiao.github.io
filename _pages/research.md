@@ -44,16 +44,22 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 
 </details>
 
+<br><br>   <!-- adds empty vertical space -->
+
 ## Policy Briefs and Reports
 
 **The impact of West Virginia University Federal Research Grant Funding on the state’s economy**, (2025), with Heather Stephens.  
   *Regional Research Institute*, West Virginia University. [Link](https://researchrepository.wvu.edu/rri_pubs/226/)
 
+<br><br>   <!-- adds empty vertical space -->  
+
 ## Working Papers
 
 **Simulating the local economic losses and regional spillover effects caused by catastrophic wildfires**, with coauthors. (Under Review)  
 
-**Fiscal competition or ideological alignment? A study on the spatial diffusion of income tax policies**, with Joshua Hall. (Under Review)    
+**Fiscal competition or ideological alignment? A study on the spatial diffusion of income tax policies**, with Joshua Hall. (Under Review)
+
+<br><br>   <!-- adds empty vertical space -->
 
 ## Working in Progress
 
