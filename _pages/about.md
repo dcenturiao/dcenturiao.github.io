@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Economics and Graduate Research Assistant at <a href='https://rri.wvu.edu/'>Regional Research Institute - RRI</a>.
+subtitle: 
+
+#Ph.D. Candidate in Economics and Graduate Research Assistant at <a href='https://rri.wvu.edu/'>Regional Research Institute - RRI</a>.
 
 profile:
   align: right
@@ -26,6 +28,10 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. Candidate in Economics at [West Virginia University](https://www.wvu.edu/), currently in my 5th year and on the **2025–26 job market**. I hold both M.A. and B.S. degrees in Economics, as well as a bachelor degree in Management and certificates in Accounting and University Teaching.  
 
 My professional background spans the private sector, public institutions, and academia, with more than five years of research experience and over two years as an assistant professor at the university level. My research interests lie in **Urban & Regional Economics**, particularly focused on the formulation and evaluation of policies and their impacts on economic outcomes across different spatial levels.
+
+📩 **Contact:** [daniel.centuriao@mail.wvu.edu](mailto:daniel.centuriao@mail.wvu.edu)
+
+<!-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/daniel-centuriao-0b9571113](https://www.linkedin.com/in/daniel-centuriao-0b9571113) -->
 
 <br><br>   <!-- adds empty vertical space -->
 <br><br>
@@ -72,7 +78,3 @@ My professional background spans the private sector, public institutions, and ac
 
 
 ---
-
-📩 **Contact:** [daniel.centuriao@mail.wvu.edu](mailto:daniel.centuriao@mail.wvu.edu)
-
-🔗 **LinkedIn:** [https://www.linkedin.com/in/daniel-centuriao-0b9571113](https://www.linkedin.com/in/daniel-centuriao-0b9571113) 
