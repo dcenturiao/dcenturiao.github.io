@@ -12,14 +12,41 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, Welcome to my website! 👋 
 
-I am a 4rd year Ph.D. Candidate in Economics at [West Virginia University](https://www.wvu.edu/), and Graduate Research Assistant of the [Regional Research Institute](https://rri.wvu.edu/). I hold both a M.S. and B.S. degrees also in Economics. Additionally I have a degree in management and a certificate in accounting and university teaching. 
+<br> 
 
-Throughout my career, I have worked in the private and public sector and as a researcher (+5 years) and as a professor (+2 years). My research interests are in empirical and theoretical analyses of economic growth and development at international or regional scales on topics such as infrastructure development, transportation and mobility, governance, institutions and urbanization.
+**Hi, welcome to my website!** 👋  
 
-My research has been presented and published in conferences and journals in Latin America, United States and Europe. My most recent working papers can be found on my [SSRN repository](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6215328).
+<br> 
+
+I am a Ph.D. Candidate in Economics at [West Virginia University](https://www.wvu.edu/), currently in my 5th year and on the **2025–26 job market**. I hold both M.A. and B.S. degrees in Economics, as well as a bachelor degree in Management and certificates in Accounting and University Teaching.  
+
+My professional background spans the private sector, public institutions, and academia, with more than five years of research experience and over two years as an assistant professor at the university level. My research interests lie in **Urban & Regional Economics**, particularly focused on the formulation and evaluation of policies and their impacts on economic outcomes across different spatial levels.
+
+<br><br>   <!-- adds empty vertical space -->
+<br><br>
+
+---
+
+## Job Market Paper  
+
+
+<ul class="doc-link">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/jmp.pdf' | relative_url }}"
+       download="Daniel_Centuriao_JMP.pdf">
+      <span>Job Market Paper</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
+
+
+
+---
+## Teaching and Research Statements
