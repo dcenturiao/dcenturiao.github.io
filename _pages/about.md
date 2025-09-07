@@ -34,8 +34,6 @@ My professional background spans the private sector, public institutions, and ac
 <!-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/daniel-centuriao-0b9571113](https://www.linkedin.com/in/daniel-centuriao-0b9571113) -->
 
 <br><br>   <!-- adds empty vertical space -->
-<br><br>
-
 ---
 
 ## Job Market Paper  
