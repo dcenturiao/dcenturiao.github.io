@@ -61,11 +61,11 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 
 ## Working in Progress
 
-**The external cost of city development dynamics**, dissertation chapter, with Brad Humphreys and Heather Stephens.  
+**The external cost of city development dynamics**, dissertation chapter, with Brad Humphreys and Heather Stephens.    
 
-**Traffic externalities of subway extensions**, with Palak Suri.  
+**The traffic externalities of sports events**, dissertation chapter.
 
-**The traffic externalities of sports events**, dissertation chapter.  
+**Traffic externalities of subway extensions**, with Palak Suri.
 
 **On the government growth**.  
 
