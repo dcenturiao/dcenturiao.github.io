@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /research/
+title: Research
 description: My main research publications. For a complete list you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a>.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
