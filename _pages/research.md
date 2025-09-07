@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Here you can find the most recent list of my peer reviewed publications. For a complete list my citations you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a>.
+Here you can find the most recent list of my peer reviewed publications. For a complete list of my citations you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a>.
 
 
 ## Publications
