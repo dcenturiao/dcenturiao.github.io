@@ -49,4 +49,31 @@ My professional background spans the private sector, public institutions, and ac
 
 
 ---
-## Teaching and Research Statements
+
+## Research and Teaching Statements
+
+<ul class="doc-link">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
+       download="Daniel_Centuriao_Research_Statement.pdf">
+      <span>Research Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/Teaching_Statement.pdf' | relative_url }}"
+       download="Daniel_Centuriao_Teaching_Statement.pdf">
+      <span>Teaching Statement</span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
+
+
+---
+
+📩 **Contact:** [daniel.centuriao@mail.wvu.edu](mailto:daniel.centuriao@mail.wvu.edu)
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/daniel-centuriao-0b9571113](https://www.linkedin.com/in/daniel-centuriao-0b9571113) 
