@@ -2,12 +2,12 @@
 layout: page
 permalink: /research/
 title: Research
-description: My main research publications. For a complete list you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a>.
+description: 
 nav: true
 nav_order: 2
 ---
 
-## Add your own format here
+Here you can find the most recent list of my peer reviewed publications. For a complete list my citations you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a>.
 
 
 ## Publications
