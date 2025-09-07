@@ -35,7 +35,7 @@ My professional background spans the private sector, public institutions, and ac
 ## Job Market Paper  
 
 
-<ul class="doc-link">
+<ul class="doc-links">
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/jmp.pdf' | relative_url }}"
@@ -47,12 +47,11 @@ My professional background spans the private sector, public institutions, and ac
 </ul>
 
 
-
 ---
 
 ## Research and Teaching Statements
 
-<ul class="doc-link">
+<ul class="doc-links">
   <li>
     <a class="doc-link"
        href="{{ '/assets/pdf/Research_Statement.pdf' | relative_url }}"
