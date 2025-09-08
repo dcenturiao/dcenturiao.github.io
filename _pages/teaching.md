@@ -44,44 +44,55 @@ I have previous experience as an adjunct professor at both the State University 
 
 <details>
   <summary><strong><a href="https://www.uems.br/home">State University of Mato Grosso do Sul - Brazil</a></strong></summary>
-  <div markdown="1">
 
-- **Economic Geography (Spring 2020)**  
-  *Description:* This course examined the historical processes of city formation and the spatial distribution of economic activities. It explored key factors such as migration, urbanization, and regional development, analyzing how these forces shape economic geography and influence patterns of growth and trade.
-
-- **History of Economic Thought (Spring 2020)**  
-  *Description:* This course traced the evolution of economic theories, from classical and neoclassical frameworks to modern economic thought. It focused on the contributions of key economists and their impact on contemporary economic policies and practices.
-
-- **Quantitative Methods (Fall 2020)**  
-  *Description:* Provided an introduction to the mathematical foundations of economics, focusing on principles of calculus (limits, derivatives, integrals) and linear algebra, with applications to economic problems.
-
-- **Spatial Economics (Fall 2020)**  
-  *Description:* Explored how geography shapes economic outcomes (regional development, spatial competition, urban–rural dynamics). Included GeoDa for spatial data analysis and visualization.
-
-- **Entrepreneurship and Innovation (Fall 2020)**  
-  *Description:* Principles of entrepreneurship, startup creation, and innovation strategies; business planning, market analysis, and creative problem-solving.
-
-- **Project Management (Fall 2020)**  
-  *Description:* Fundamentals of project planning and execution; proposal development, resource allocation, and tools like Gantt charts and PM software.
-
-  </div>
+  <ul>
+    <li>
+      <strong>Economic Geography (Spring 2020)</strong><br>
+      <em>Description:</em> This course examined the historical processes of city formation and the spatial distribution of economic activities. It explored key factors such as migration, urbanization, and regional development, analyzing how these forces shape economic geography and influence patterns of growth and trade.
+    </li>
+    <li>
+      <strong>History of Economic Thought (Spring 2020)</strong><br>
+      <em>Description:</em> This course traced the evolution of economic theories, from classical and neoclassical frameworks to modern economic thought. It focused on the contributions of key economists and their impact on contemporary economic policies and practices.
+    </li>
+    <li>
+      <strong>Quantitative Methods (Fall 2020)</strong><br>
+      <em>Description:</em> Provided an introduction to the mathematical foundations of economics, focusing on principles of calculus (limits, derivatives, integrals) and linear algebra, with applications to economic problems.
+    </li>
+    <li>
+      <strong>Spatial Economics (Fall 2020)</strong><br>
+      <em>Description:</em> Explored how geography shapes economic outcomes (regional development, spatial competition, urban–rural dynamics). Included GeoDa for spatial data analysis and visualization.
+    </li>
+    <li>
+      <strong>Entrepreneurship and Innovation (Fall 2020)</strong><br>
+      <em>Description:</em> Principles of entrepreneurship, startup creation, and innovation strategies; business planning, market analysis, and creative problem-solving.
+    </li>
+    <li>
+      <strong>Project Management (Fall 2020)</strong><br>
+      <em>Description:</em> Fundamentals of project planning and execution; proposal development, resource allocation, and tools like Gantt charts and PM software.
+    </li>
+  </ul>
 </details>
 
 <details>
   <summary><strong><a href="https://www.ufms.br/">Federal University of Mato Grosso do Sul - Brazil</a></strong></summary>
-  <div markdown="1">
 
-- **Principles of Economics (Spring/Fall 2019)**  
-  *Description:* Comprehensive intro to micro & macro: supply/demand, market structures, fiscal policy, growth, and real-world applications.
-
-- **Introduction to Business (Spring/Fall 2019)**  
-  *Description:* Management, marketing, finance, and org behavior; business in society and core strategies/practices.
-
-- **Brazilian Economy (Fall 2019)**  
-  *Description:* Industrialization, inflation, trade policy, income distribution; challenges/opportunities and policy impacts.
-
-- **Principles of Macroeconomics (Spring 2019)**  
-  *Description:* GDP, inflation, unemployment, fiscal/monetary policy; government/trade roles; interpreting indicators and policies.
-
-  </div>
+  <ul>
+    <li>
+      <strong>Principles of Economics (Spring/Fall 2019)</strong><br>
+      <em>Description:</em> Comprehensive intro to micro &amp; macro: supply/demand, market structures, fiscal policy, growth, and real-world applications.
+    </li>
+    <li>
+      <strong>Introduction to Business (Spring/Fall 2019)</strong><br>
+      <em>Description:</em> Management, marketing, finance, and org behavior; business in society and core strategies/practices.
+    </li>
+    <li>
+      <strong>Brazilian Economy (Fall 2019)</strong><br>
+      <em>Description:</em> Industrialization, inflation, trade policy, income distribution; challenges/opportunities and policy impacts.
+    </li>
+    <li>
+      <strong>Principles of Macroeconomics (Spring 2019)</strong><br>
+      <em>Description:</em> GDP, inflation, unemployment, fiscal/monetary policy; government/trade roles; interpreting indicators and policies.
+    </li>
+  </ul>
 </details>
+
