@@ -16,18 +16,17 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 **ECON 202: Principles of Macroeconomics (Summer 2024)**
 - Class size: 26 students
 - Book: Principles of Macroeconomics, Gregory Mankiw
-
-[Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
+- [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
 
 **ECON 462: Urban Economics (Summer 2025)**
 - Class size: 26 students
 - Book: Lectures on Urban Economics, Jan K. Brueckner
-- [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
+- [Syllabus (Download)](https://drive.google.com/file/d/1lcTUxXwg8sfqoLBFxlvvspJW-7V_7Srq/view?usp=sharing)
 
 **ECON 225: Elementary Business and Economic Statistics (Fall 2025)**
 - Class size: 63 students
-- General evaluation: 4.00/5.00
-- [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
+- Book: Introductory Business Statistics. Alexander Holmes, Barbara Illowsky, and Susan Dean
+- [Syllabus (Download)](https://drive.google.com/file/d/1pNf2G0cyrNmU00-4glj4ajLdJ_6kUMWl/view?usp=sharing)
 
 **Student comments on instruction for the most recent courses taught:**  
 
