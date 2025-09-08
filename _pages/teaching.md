@@ -7,8 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-## Teaching Record
-
 Here are the record and materials for courses I taught. My <a href='https://drive.google.com/file/d/17AepSps1lIms3tEYDTv1Sz0NA7rWj3O1/view?usp=drive_link'>Teaching Philosophy</a> is simple. I want to inspire curiosity, promote critical thinking, and support my students as they grow into their potential.
 
 **[West Virginia University](https://www.wvu.edu/)**
@@ -28,7 +26,18 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 - Book: Introductory Business Statistics. Alexander Holmes, Barbara Illowsky, and Susan Dean
 - [Syllabus (Download)](https://drive.google.com/file/d/1pNf2G0cyrNmU00-4glj4ajLdJ_6kUMWl/view?usp=sharing)
 
-**Student comments on instruction for the most recent courses taught:**  
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/teaching_evals.pdf' | relative_url }}"
+       download="Daniel_Centuriao_Teaching_Evaluation.pdf">
+      <span>Full Course Evaluations (Teaching Effectiveness) </span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
+
+# Student Feedback  
 
 > *"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From ECON 202 Summer 2024)
 
@@ -95,14 +104,3 @@ I have previous experience as an adjunct professor at both the State University 
     </li>
   </ul>
 </details>
-
-<ul class="doc-links">
-  <li>
-    <a class="doc-link"
-       href="{{ '/assets/pdf/teaching_evals.pdf' | relative_url }}"
-       download="Daniel_Centuriao_Teaching_Evaluation.pdf">
-      <span>Full Course Evaluations (Teaching Effectiveness) </span>
-      <i class="fas fa-file-pdf"></i>
-    </a>
-  </li>
-</ul>
