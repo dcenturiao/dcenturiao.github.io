@@ -96,3 +96,13 @@ I have previous experience as an adjunct professor at both the State University 
   </ul>
 </details>
 
+<ul class="doc-links">
+  <li>
+    <a class="doc-link"
+       href="{{ '/assets/pdf/teaching_evals.pdf' | relative_url }}"
+       download="Daniel_Centuriao_Teaching_Evaluation.pdf">
+      <span>Full Course Evaluations (Teaching Effectiveness) </span>
+      <i class="fas fa-file-pdf"></i>
+    </a>
+  </li>
+</ul>
