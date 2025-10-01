@@ -47,6 +47,13 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 
 > *"While the topics in this course were challenging at times Professor Centuriao only wanted the best for his students and was always willing to help us improve our work or understand it deeper. I was very pleased with Professor Centuriao's timeliness and attention to detail with assignments and ensuring that we were given the proper tools necessary to complete assignments to the best of our abilities."* (From ECON 462 Summer 2025)
 
+# Mentoring
+
+I am especially eager to mentor undergraduates, given my recent work supervising a student while serving as a graduate research assistant at the Regional Research Institute. The results of this project can be seen here: [Rural Tourism App](https://ruraltourismlabwvu.shinyapps.io/1_rural_tourism_app/).
+
+*"Daniel was an excellent research mentor. He was always willing to help and responded to questions in a very timely manner. His dedication to research was evident in his ability to articulate the skills and procedures I needed to succeed in our research project. "* (Rural Toursim Project, Spring 2025)
+
+
 ## Previous Teaching Experience
 
 I have previous experience as an adjunct professor at both the State University of Mato Grosso do Sul and the Federal University of Mato Grosso do Sul, the largest university in the state with more than 29,000 students. My responsibilities included preparing syllabi, delivering lectures, grading, advising students, and offering office hours. At the State University, I taught in the Geography Department, with courses conducted in Brazilian Portuguese. At the Federal University, I taught Economics and Business courses in the School of Management and Business, as well as Principles of Economics and Business for departments such as Computer Engineering and Chemistry. This double appointment gave me valuable experience teaching diverse audiences across disciplines. Following are the courses that I’ve taught:
