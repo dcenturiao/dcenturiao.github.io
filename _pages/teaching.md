@@ -51,7 +51,7 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 
 I am especially eager to mentor undergraduates, given my recent work supervising a student while serving as a graduate research assistant at the Regional Research Institute. The results of this project can be seen here: [Rural Tourism App](https://ruraltourismlabwvu.shinyapps.io/1_rural_tourism_app/).
 
-*"Daniel was an excellent research mentor. He was always willing to help and responded to questions in a very timely manner. His dedication to research was evident in his ability to articulate the skills and procedures I needed to succeed in our research project. "* (Rural Toursim Project, Spring 2025)
+> *"Daniel was an excellent research mentor. He was always willing to help and responded to questions in a very timely manner. His dedication to research was evident in his ability to articulate the skills and procedures I needed to succeed in our research project. "* (Rural Toursim Project, Spring 2025)
 
 
 ## Previous Teaching Experience
