@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Ph.D. Candidate in Economics at [West Virginia University](https://www.wvu.edu/), currently in my 5th year and on the **2025–26 job market**. I hold both M.A. and B.S. degrees in Economics, as well as a bachelor degree in Management and certificates in Accounting and University Teaching.  
 
-My professional background spans the private sector, public institutions, and academia, with more than five years of research experience and over two years as an assistant professor at the university level. My research interests lie in **Urban & Regional Economics**, particularly focused on the formulation and evaluation of policies and their impacts on economic outcomes across different spatial levels.
+My professional background spans the private sector, public institutions, and academia, with more than five years of research experience and over two years as an assistant professor at the university level. My research interests lie in **Urban & Regional Economics** and **Public Economics**, particularly focused on the formulation and evaluation of policies and their impacts on economic outcomes across different spatial levels.
 
 📩 **Contact:** [daniel.centuriao@mail.wvu.edu](mailto:daniel.centuriao@mail.wvu.edu)
 
@@ -40,7 +40,28 @@ My professional background spans the private sector, public institutions, and ac
 
 **The effectiveness of speed enforcement policies in congested cities**
 
-Large, congested cities face a persistent dilemma: how to reduce motor vehicle accidents without worsening traffic. Speed reduction policies such as slow zones, speed bumps, and automated monitoring systems are designed to enforce lower driving speeds, but their spatial effects remain poorly understood. This study proceed an empirical and theoretical estimation of speed policy effects. I estimate the effects of these interventions using a spatial difference-in-differences design, leveraging high-frequency, street-level data on accidents, injuries, and fatalities. The analysis exploits variation in proximity to the street segments where each policy was implemented. The results reveal heterogeneous impacts by policy type. Automated enforcement via speed cameras is associated with increases in accidents and injuries in treated areas, alongside positive spillovers to nearby streets. In contrast, moderate-intensity measures such as slow zones and speed humps show modest, suggestive reductions in accidents and injuries, with benefits extending beyond treated segments. No statistically significant effects are found for fatalities. These findings highlight the importance of tailoring traffic safety interventions to the urban context and accounting for both localized and spillover effects when designing policy.
+Large, congested cities face a persistent dilemma: how to reduce motor vehicle
+collisions without worsening congestion. Speed reduction policies such as slow zones,
+speed bumps, and automated monitoring systems are designed to enforce lower
+driving speeds, yet their spatial effects remain poorly understood. This study presents
+an empirical evaluation of speed calming policy effects on traffic outcomes. I estimate
+the causal effects of these interventions using New York City as a case study and a
+spatial difference in differences design, leveraging daily street-level data on motor
+vehicle collisions, injuries, and fatalities. The analysis exploits spatial and temporal
+variation in collisions between street segments where each policy was implemented
+and comparable untreated segments before and after policy implementation. The
+results reveal heterogeneous impacts across policy types. Stricter enforcement via
+automated speed cameras is associated with increases in motor vehicle collisions and
+injuries in treated areas, with spillover effects that also raise collision rates on nearby
+streets. In contrast, moderate enforcement measures such as slow zones and speed
+humps show modest, statistically significant reductions in motor vehicle collisions and
+injuries, with benefits extending beyond treated segments. No statistically significant
+effects are found for fatalities. Using the estimated coefficients and dollar values of
+collision costs from the literature, I conduct a cost-benefit analysis showing that slow
+neighborhood zones and speed bumps tend to be more cost-effective in improving
+traffic safety than automated speed cameras. These findings highlight the importance
+of tailoring traffic safety interventions to the urban context and accounting for both
+localized and spillover effects when designing policies for congested cities.
 
 <ul class="doc-links">
   <li>
