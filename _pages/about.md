@@ -25,17 +25,18 @@ social: true  # includes social icons at the bottom of the page
 
 <br> 
 
-I am a Ph.D. Candidate in Economics at [West Virginia University](https://www.wvu.edu/), currently in my 5th year and on the **2025–26 job market**. I hold both M.A. and B.S. degrees in Economics, as well as a bachelor degree in Management and certificates in Accounting and University Teaching.  
+I am a Postdoctoral Scholar at [Northeast Regional Center for Rural Development](https://nercrd.psu.edu/), at Penn State University.  
 
-My professional background spans the private sector, public institutions, and academia, with more than five years of research experience and over two years as an assistant professor at the university level. My research interests lie in **Urban & Regional Economics** and **Public Economics**, particularly focused on the formulation and evaluation of policies and their impacts on economic outcomes across different spatial levels.
+My professional background spans the private sector, public institutions, and academia. My research interests lie in **Urban & Regional Economics** and **Public Economics**, with a focus on transportation systems, spatial policy evaluation, infrastructure investments, regional connectivity, climate resilience, and the measurement of external costs associated with urban and regional development. My work often combines large geospatial datasets, econometric methods, and policy analysis to study shocks, mobility patterns, and regional economic outcomes.
 
-📩 **Contact:** [daniel.centuriao@mail.wvu.edu](mailto:daniel.centuriao@mail.wvu.edu)
+📩 **Contact:** [dfc5823@psu.edu](mailto:dfc5823@psu.edu)
 
 <!-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/daniel-centuriao-0b9571113](https://www.linkedin.com/in/daniel-centuriao-0b9571113) -->
 
 <br><br>   <!-- adds empty vertical space -->
 ---
 
+<!--
 ## Job Market Paper  
 
 **The effectiveness of speed enforcement policies in congested cities**
@@ -73,7 +74,7 @@ localized and spillover effects when designing policies for congested cities.
     </a>
   </li>
 </ul>
-
+-->
 
 ---
 

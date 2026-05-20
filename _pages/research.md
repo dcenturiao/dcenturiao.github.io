@@ -31,7 +31,7 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   *Journal of Regional Analysis & Policy*, 51(2), 49–66. [Link](https://jrip.scholasticahq.com/article/18918)
 
 <details>
-  <summary><strong>Other Publications: click to view full list</strong></summary>
+  <summary><strong>Pre-Doctoral Peer Reviewed Publications: click to view full list</strong></summary>
 
 {% bibliography
    --file papers
@@ -55,20 +55,27 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 
 ## Working Papers
 
-**Simulating the local economic losses and regional spillover effects caused by catastrophic wildfires**, with coauthors. (Under Review)  
+**Simulating the local economic losses and regional spillover effects caused by catastrophic wildfires**, with coauthors. (Revise and Resubmit)  
 
-**Fiscal competition or ideological alignment? A study on the spatial diffusion of income tax policies**, with Joshua Hall. (Under Review)
+**Fiscal competition or ideological alignment? A study on the spatial diffusion of income tax policies**, with Joshua Hall.
+
+**The external cost of city development dynamics**, with Brad Humphreys and Heather Stephens.
+
+**Closing the Digital Divide: New Insights on U.S. Broadband Availability**, with Heather Stephens.
+
+**Reverse Commuting in Polycentric Cities: A Network-Based Measure**, with Eli Kochersperger.
+
+**The Effects of Connectivity Constraints on the Measurement of Tourism Visitation Using Mobile
+Device Location Data**, with Matthew Fredriksson, Heather Stephens and Doug Arbogast.
 
 <br><br>   <!-- adds empty vertical space -->
 
 ## Working in Progress
 
-**The external cost of city development dynamics**, dissertation chapter, with Brad Humphreys and Heather Stephens.    
-
 **The traffic externalities of sports events**, dissertation chapter.
 
 **Traffic externalities of subway extensions**, with Palak Suri.
 
-**On the government growth**.  
+**On the government growth: a partial equilibrium macroeconomic growth model to explain cross-country
+government expenditure trends**, with Vinicius Cicero.  
 
-**Closing the Digital Divide: New Insights on U.S. Broadband Availability**.
