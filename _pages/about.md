@@ -16,62 +16,77 @@ selected_papers: false
 social: true
 ---
 
+
 <style>
-/* Selected research section */
+/* Research sections */
 .home-research {
-  margin-top: 1.5rem;
+  margin-top: 1.25rem;
 }
 
+.home-research-category {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+/* Individual papers - no separators */
 .home-paper {
-  padding: 1.3rem 0;
-  border-bottom: 1px solid var(--global-divider-color, #ddd);
-}
-
-.home-paper:last-child {
-  border-bottom: none;
+  margin-bottom: 1.6rem;
+  padding: 0;
+  border: none;
 }
 
 .home-paper-title {
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   font-weight: 600;
   line-height: 1.5;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 .home-paper-authors {
-  font-size: 0.95rem;
-  margin-bottom: 0.15rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin-bottom: 0.55rem;
 }
 
 .home-paper-status {
-  font-size: 0.9rem;
   color: var(--global-text-color-light, #777);
   font-style: italic;
-  margin-bottom: 0.65rem;
 }
 
+/* Buttons on the same line */
 .home-paper-actions {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 0.65rem;
+  flex-wrap: wrap;
+  gap: 0.6rem;
 }
 
 .home-abstract {
-  width: 100%;
+  display: contents;
+}
+
+.home-abstract summary,
+.home-paper-pdf {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--global-text-color, #555);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--global-text-color, #333);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.4;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
 }
 
 .home-abstract summary {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  border: 1px solid var(--global-text-color, #555);
-  border-radius: 3px;
-  padding: 0.35rem 0.85rem;
-  cursor: pointer;
-  font-size: 0.82rem;
-  font-weight: 500;
-  user-select: none;
   list-style: none;
 }
 
@@ -81,7 +96,8 @@ social: true
 
 .home-abstract summary::after {
   content: "▼";
-  font-size: 0.65rem;
+  font-size: 0.6rem;
+  margin-left: 0.2rem;
   transition: transform 0.2s ease;
 }
 
@@ -96,26 +112,15 @@ social: true
 }
 
 .home-abstract-text {
+  flex-basis: 100%;
+  width: 100%;
+  padding: 0.8rem 0 0.3rem;
   font-size: 0.92rem;
   line-height: 1.7;
-  padding: 0.9rem 0.2rem 0.3rem;
   text-align: justify;
 }
 
-.home-paper-pdf {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  border: 1px solid var(--global-text-color, #555);
-  border-radius: 3px;
-  padding: 0.35rem 0.85rem;
-  color: var(--global-text-color, #333);
-  text-decoration: none !important;
-  font-size: 0.82rem;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
+/* Conference section */
 .home-conferences {
   margin-top: 1rem;
 }
@@ -137,27 +142,13 @@ social: true
 }
 </style>
 
-<br>
-
-**Hi, welcome to my website!** 👋
-
-<br>
-
-I am a Postdoctoral Scholar at the [Northeast Regional Center for Rural Development](https://nercrd.psu.edu/) at Penn State University. I earned my Ph.D. in Economics from West Virginia University in 2026.
-
-I am an applied economist whose research lies at the intersection of regional and urban economics, public economics, and macroeconomics. My work combines applied econometrics, spatial analysis, and economic modeling to study economic growth and development, public policy, transportation, and the spatial dimensions of economic activity. My research often draws on large geospatial datasets and causal inference methods.
-
-Before pursuing my doctoral studies, I gained professional experience in both the private and public sectors.
-
-📩 **Contact:** [dfc5823@psu.edu](mailto:dfc5823@psu.edu)
-
-<br>
-
----
-
-## Selected Working Papers
+<h2>Selected Working Papers</h2>
 
 <div class="home-research">
+
+  <h3 class="home-research-category">
+    Regional, Urban, and Public Economics
+  </h3>
 
   <!-- PAPER 1 -->
   <div class="home-paper">
@@ -165,171 +156,149 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       When Is a Commute "Reverse"? Network Centrality and the Geography of Urban Labor Markets
     </div>
     <div class="home-paper-authors">
-      With Eli Kochersperger
+      With Eli Kochersperger.
+      <span class="home-paper-status">Under review.</span>
     </div>
-    <div class="home-paper-status">
-      Under review, Urban Studies
-    </div>
-
     <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_commute.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
           [Insert abstract for the reverse commuting paper here.]
         </div>
       </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_commute.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
     </div>
   </div>
 
   <!-- PAPER 2 -->
   <div class="home-paper">
     <div class="home-paper-title">
-      Re-examining the Framework for Macro Modeling of Monetary Policy and Regional Housing
+      Can Off-Farm Work Keep Farms Alive? Evidence from U.S. Counties
     </div>
     <div class="home-paper-authors">
-      With Scott Schuh and Michael Duncan
+      With Stephan Goetz and Zheng Tian.
+      <span class="home-paper-status">Submitted.</span>
     </div>
-    <div class="home-paper-status">
-      Under review, Journal of Money, Credit and Banking
-    </div>
-
     <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_macro_housing.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [Insert abstract for the monetary policy and regional housing paper here.]
+          [Insert abstract for the off-farm work paper here.]
         </div>
       </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_off_farm.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
     </div>
   </div>
 
   <!-- PAPER 3 -->
   <div class="home-paper">
     <div class="home-paper-title">
-      Federal Research Grants and Regional Economic Impact: Evidence from West Virginia University
-    </div>
-    <div class="home-paper-authors">
-      With Heather Stephens
-    </div>
-    <div class="home-paper-status">
-      Under review, Journal of Regional Analysis and Policy
-    </div>
-
-    <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_research_grants.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
-      <details class="home-abstract">
-        <summary>Abstract</summary>
-        <div class="home-abstract-text">
-          [Insert abstract for the federal research grants paper here.]
-        </div>
-      </details>
-    </div>
-  </div>
-
-  <!-- PAPER 4 -->
-  <div class="home-paper">
-    <div class="home-paper-title">
-      Can Off-Farm Work Keep Farms Alive? Evidence from U.S. Counties
-    </div>
-    <div class="home-paper-authors">
-      With Stephan Goetz and Zheng Tian
-    </div>
-    <div class="home-paper-status">
-      Submitted to American Journal of Agricultural Economics
-    </div>
-
-    <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_off_farm.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
-      <details class="home-abstract">
-        <summary>Abstract</summary>
-        <div class="home-abstract-text">
-          [Insert abstract for the off-farm employment paper here.]
-        </div>
-      </details>
-    </div>
-  </div>
-
-  <!-- PAPER 5 -->
-  <div class="home-paper">
-    <div class="home-paper-title">
       The Effectiveness of Speed Enforcement Policies in Congested Cities
     </div>
     <div class="home-paper-authors">
-      With Palak Suri
+      With Palak Suri.
+      <span class="home-paper-status">Working paper.</span>
     </div>
-    <div class="home-paper-status">
-      Selected for presentation at the Urban Economics Association Conference
-    </div>
-
     <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
           [Insert abstract for the speed enforcement paper here.]
         </div>
       </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
     </div>
   </div>
 
-  <!-- PAPER 6 -->
+  <!-- PAPER 4 -->
   <div class="home-paper">
     <div class="home-paper-title">
       Measuring the Outdoor Recreation Economy at the Sub-State Level
     </div>
     <div class="home-paper-authors">
-      With Heather Stephens, Caroline Welter, and Matthew Fredriksson
+      With Heather Stephens, Caroline Welter, and Matthew Fredriksson.
+      <span class="home-paper-status">Working paper.</span>
     </div>
-    <div class="home-paper-status">
-      Selected for presentation at the 2027 ASSA Annual Meeting
-    </div>
-
     <div class="home-paper-actions">
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_outdoor_recreation.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
-
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
           [Insert abstract for the outdoor recreation paper here.]
         </div>
       </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_outdoor_recreation.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
+    </div>
+  </div>
+
+  <h3 class="home-research-category">
+    Macroeconomics
+  </h3>
+
+  <!-- PAPER 5 -->
+  <div class="home-paper">
+    <div class="home-paper-title">
+      Re-examining the Framework for Macro Modeling of Monetary Policy and Regional Housing
+    </div>
+    <div class="home-paper-authors">
+      With Scott Schuh and Michael Duncan.
+      <span class="home-paper-status">Under review.</span>
+    </div>
+    <div class="home-paper-actions">
+      <details class="home-abstract">
+        <summary>Abstract</summary>
+        <div class="home-abstract-text">
+          [Insert abstract for the monetary policy and housing paper here.]
+        </div>
+      </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_macro_housing.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
+    </div>
+  </div>
+
+  <!-- PAPER 6 -->
+  <div class="home-paper">
+    <div class="home-paper-title">
+      Social Capital and Local Economic Recovery: Evidence from the COVID-19 Shock
+    </div>
+    <div class="home-paper-authors">
+      With Stephan Goetz and Timothy Zuahng.
+      <span class="home-paper-status">Work in progress.</span>
+    </div>
+    <div class="home-paper-actions">
+      <details class="home-abstract">
+        <summary>Abstract</summary>
+        <div class="home-abstract-text">
+          [Insert abstract for the social capital paper here.]
+        </div>
+      </details>
+      <a class="home-paper-pdf"
+         href="{{ '/assets/pdf/paper_social_capital.pdf' | relative_url }}"
+         target="_blank" rel="noopener noreferrer">
+        <i class="far fa-file-pdf"></i> Draft PDF
+      </a>
     </div>
   </div>
 
 </div>
-
-<br>
 
 ---
 
