@@ -266,11 +266,16 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           policies.
         </div>
       </details>
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
+      <!-- DRAFT PDF BUTTON - Uncomment when ready
+    <a class="home-paper-pdf"
+       href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
+       target="_blank" rel="noopener noreferrer">
+      <i class="far fa-file-pdf"></i> Draft PDF
+    </a>
+    -->
+
+    <!-- TEMPORARY TEXT - Comment out when draft is ready -->
+    <span class="home-paper-status">Draft Coming Soon</span>
     </div>
   </div>
 
@@ -306,7 +311,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
         </div>
       </details>
       <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_macro_housing.pdf' | relative_url }}"
+         href="https://dcenturiao.github.io/research-papers/macro-housing/paper.pdf"
          target="_blank" rel="noopener noreferrer">
         <i class="far fa-file-pdf"></i> Draft PDF
       </a>
@@ -370,11 +375,16 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           appears to operate more as adaptive capacity than shock insulation.
         </div>
       </details>
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_social_capital.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
+      <!-- DRAFT PDF BUTTON - Uncomment when ready
+    <a class="home-paper-pdf"
+       href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
+       target="_blank" rel="noopener noreferrer">
+      <i class="far fa-file-pdf"></i> Draft PDF
+    </a>
+    -->
+
+    <!-- TEMPORARY TEXT - Comment out when draft is ready -->
+    <span class="home-paper-status">Draft Coming Soon</span>
     </div>
   </div>
 
@@ -409,11 +419,16 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           expenditure.
         </div>
       </details>
-      <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_social_capital.pdf' | relative_url }}"
-         target="_blank" rel="noopener noreferrer">
-        <i class="far fa-file-pdf"></i> Draft PDF
-      </a>
+      <!-- DRAFT PDF BUTTON - Uncomment when ready
+    <a class="home-paper-pdf"
+       href="{{ '/assets/pdf/paper_speed_enforcement.pdf' | relative_url }}"
+       target="_blank" rel="noopener noreferrer">
+      <i class="far fa-file-pdf"></i> Draft PDF
+    </a>
+    -->
+
+    <!-- TEMPORARY TEXT - Comment out when draft is ready -->
+    <span class="home-paper-status">Draft Coming Soon</span>
     </div>
   </div>
 
