@@ -343,7 +343,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
         </div>
       </details>
       <a class="home-paper-pdf"
-         href="{{ '/assets/pdf/paper_outdoor_recreation.pdf' | relative_url }}"
+         href="https://dcenturiao.github.io/research-papers/outdoor-economy/paper.pdf"
          target="_blank" rel="noopener noreferrer">
         <i class="far fa-file-pdf"></i> Draft PDF
       </a>
