@@ -11,21 +11,43 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 
 **[West Virginia University](https://www.wvu.edu/)**
 
-**ECON 202: Principles of Macroeconomics (Summer 2024)**
-- Class size: 26 students
-- Book: Principles of Macroeconomics, Gregory Mankiw
+**ECON 202: Regional Economics (Summer 2026)**
+- Class size: 9 students
+- Book: Regional Economics, Roberta Capello
+- [Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Regional Economics.pdf' | relative_url }})
+
+<!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
+-->
 
 **ECON 462: Urban Economics (Summer 2025)**
 - Class size: 26 students
 - Book: Lectures on Urban Economics, Jan K. Brueckner
+- [Urban Economics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Urban Economics.pdf' | relative_url }})
+
+<!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1lcTUxXwg8sfqoLBFxlvvspJW-7V_7Srq/view?usp=sharing)
+-->
 
 **ECON 225: Elementary Business and Economic Statistics (Fall 2025)**
 - Class size: 63 students
 - Book: Introductory Business Statistics. Alexander Holmes, Barbara Illowsky, and Susan Dean
-- [Syllabus (Download)](https://drive.google.com/file/d/1pNf2G0cyrNmU00-4glj4ajLdJ_6kUMWl/view?usp=sharing)
+- [Business and Economics Statistics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Business and Economics Statistics.pdf' | relative_url }})
 
+<!--
+- [Syllabus (Download)](https://drive.google.com/file/d/1pNf2G0cyrNmU00-4glj4ajLdJ_6kUMWl/view?usp=sharing)
+-->
+
+**ECON 202: Principles of Macroeconomics (Summer 2024)**
+- Class size: 26 students
+- Book: Principles of Macroeconomics, Gregory Mankiw
+- [Principles of Macroeconomics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Macroeconomics.pdf' | relative_url }})
+
+<!--
+- [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
+-->
+
+<!--
 <ul class="doc-links">
   <li>
     <a class="doc-link"
@@ -36,8 +58,13 @@ Here are the record and materials for courses I taught. My <a href='https://driv
     </a>
   </li>
 </ul>
+-->
 
 # Student Feedback  
+
+> *"Dr. Centuriao is extremely communicative and helpful. His grading feedback is explanative and fair. The attention to detail he provides shows he really cares about his students and quality of teaching even though this is a virtual course. Dr. Centuriao is a great addition to the ECON Masters program."* (From ECON 561 Summer 2026)
+
+> *"Professor Centuriao was incredibly timely with responses and grading with very in depth and constructive assignment feedback."* (From ECON 561 Summer 2026)
 
 > *"Professor Centuriao was very helpful himself. Anytime I would email a question he would respond in a timely manner with very helpful feedback. He was very well organized on eCampus, and very helpful with his weekly announcements."* (From ECON 202 Summer 2024)
 
