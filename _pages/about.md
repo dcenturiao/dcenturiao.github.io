@@ -181,7 +181,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [Reverse commuting has a familiar monocentric meaning: travel from a central res-
+          Reverse commuting has a familiar monocentric meaning: travel from a central res-
           idential area toward suburban employment. Yet an origin–destination matrix does
           not identify a commute as reverse without first specifying the metropolitan hierarchy
           relative to which its direction is judged. We develop a network-based measure that
@@ -194,7 +194,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           and local inflow–outflow classifications imply substantially different levels and geographies 
           of reverse commuting across metropolitan areas. These differences demonstrate
           that empirical conclusions about commute direction depend materially on the urban
-          hierarchy embedded in the measurement rule.]
+          hierarchy embedded in the measurement rule.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -218,7 +218,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [Using county-level Census of Agriculture panels from 2002 to 2022, this paper studies
+          Using county-level Census of Agriculture panels from 2002 to 2022, this paper studies
           whether off-farm work stabilizes U.S. farm counts or accelerates the net loss of farms.
           We estimate county and Census-year fixed-effects models and instrument off-farm work
           with predicted private-sector labor demand accessible through commuting links. The IV
@@ -229,7 +229,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           percentage points. The estimates imply that off-farm employment induced by commuting-
           linked labor-market access helps farms persist rather than facilitating exit. Policies that
           expand off-farm job access may therefore complement agricultural policy by supporting
-          farm household viability.]
+          farm household viability.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -253,7 +253,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [We examine the effects of New York City’s Vision Zero program, which expanded
+          We examine the effects of New York City’s Vision Zero program, which expanded
           the use of traffic calming and enforcement measures across the city. Combining
           geocoded policy locations with street-level collision data, we use spatial difference-
           in-differences to estimate local and spillover effects of automated speed enforcement
@@ -263,7 +263,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           while speed humps show no robust effects and Slow Neighborhood Zones exhibit
           suggestive increases in injuries just outside zone boundaries. These findings highlight
           the importance of accounting for spatial spillovers when evaluating urban traffic-safety
-          policies.]
+          policies.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -291,7 +291,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [This paper re-examines the aggregate modeling framework that captures both national
+          This paper re-examines the aggregate modeling framework that captures both national
           markets (monetary and financial) and heterogeneous regional housing markets by re-
           specifying the macro-housing VAR in the HAVAR model of Fratantoni and Schuh
           (2003). Both the original (levels) and revised (rates) specifications of the 6-variable
@@ -302,7 +302,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           Keynesian model with two heterogeneous sectors. An expanded macro VAR model that
           adds a financial variable and two more housing variables also fits the data well, thereby
           providing a solid foundation for an updated, revised, and expanded HAVAR model in
-          future research.]
+          future research.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -326,7 +326,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [Official outdoor recreation accounts are rarely available at the local scale, although
+          Official outdoor recreation accounts are rarely available at the local scale, although
           land, infrastructure, and development decisions are often local. We develop a portable
           accounting method that recovers local outdoor recreation GDP, employment, and labor
           income from standard regional production accounts plus an explicit activity classification. 
@@ -334,7 +334,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           inputs and fewer unobserved allocation assumptions. Applied to West Virginia, the
           estimates are of the same order as the official state benchmark and reveal large county
           differences. The same accounting structure can be transferred to other countries or
-          regions with sufficiently disaggregated regional accounts.]
+          regions with sufficiently disaggregated regional accounts.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -358,7 +358,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [We study whether pre-existing social capital shapes local labor-market adjustment to
+          We study whether pre-existing social capital shapes local labor-market adjustment to
           the COVID-19 shock. We combine a pre-pandemic county social-capital index with a
           shift-share measure of COVID-19 exposure based on pre-pandemic industry structure
           and national industry employment declines. We find little evidence that social capital
@@ -367,7 +367,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           response by about 0.39 percent between impact and 2022–2023. Business dynamics
           point to lower job destruction, greater retention at continuing establishments, and less
           reallocation rather than stronger job creation at new establishments. Social capital
-          appears to operate more as adaptive capacity than shock insulation.]
+          appears to operate more as adaptive capacity than shock insulation.
         </div>
       </details>
       <a class="home-paper-pdf"
@@ -391,7 +391,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
       <details class="home-abstract">
         <summary>Abstract</summary>
         <div class="home-abstract-text">
-          [Government expenditure has risen substantially over the past two centuries, but its
+          Government expenditure has risen substantially over the past two centuries, but its
           long-run level and trajectory differ markedly across countries. This paper develops
           a dynamic political-economy model in which fiscal capacity is an accumulated state
           variable and current expenditure competes with investment in the government’s
@@ -406,7 +406,7 @@ Before pursuing my doctoral studies, I gained professional experience in both th
           not operate in the same direction. Initial fiscal capacity affects transition paths when
           the policy rule along the stable arm is monotone, and the model provides explicit
           conditions under which fiscal-capacity erosion produces a decline in government
-          expenditure.]
+          expenditure.
         </div>
       </details>
       <a class="home-paper-pdf"
