@@ -15,12 +15,21 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 ## In press and R&R
 
 ## Published Research
+
+<!-- ======================================= -->
+<!-- PUBLISHED RESEARCH -->
+<!-- ======================================= -->
+
+<h2>Published Research</h2>
+
 <!-- PUBLISHED PAPER 1 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Assessing the Local Cost of Urban Climate Resilience:
-    An Analysis of the NYC Financial District and Seaport
-    Climate Resilience (FiDi) Master Plan
+    <strong>
+      Assessing the Local Cost of Urban Climate Resilience:
+      An Analysis of the NYC Financial District and Seaport
+      Climate Resilience (FiDi) Master Plan
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -33,7 +42,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -56,9 +64,8 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://doi.org/10.1016/j.pirs.2025.100110"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
 
@@ -66,8 +73,10 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 <!-- PUBLISHED PAPER 2 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Regional Economic Impacts of COVID-19 Lockdowns and
-    Mitigation Effects of Stimulus Checks and Unemployment Insurance
+    <strong>
+      Regional Economic Impacts of COVID-19 Lockdowns and
+      Mitigation Effects of Stimulus Checks and Unemployment Insurance
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -80,7 +89,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -104,9 +112,8 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://doi.org/10.1016/j.eap.2025.08.029"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
 
@@ -114,9 +121,11 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 <!-- PUBLISHED PAPER 3 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Land Use and Regulating Ecosystem Services Scenarios for
-    the Brazilian Pantanal and Its Surroundings Under Different
-    Storylines of Future Regional Development
+    <strong>
+      Land Use and Regulating Ecosystem Services Scenarios for
+      the Brazilian Pantanal and Its Surroundings Under Different
+      Storylines of Future Regional Development
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -129,7 +138,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -155,9 +163,8 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://doi.org/10.1111/csp2.70012"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
 
@@ -165,8 +172,10 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 <!-- PUBLISHED PAPER 4 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Impacts of Road Transport Infrastructure Investments
-    on the Latin American Integration Route
+    <strong>
+      Impacts of Road Transport Infrastructure Investments
+      on the Latin American Integration Route
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -183,7 +192,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -210,9 +218,8 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://doi.org/10.1016/j.rspp.2024.100061"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
 
@@ -220,9 +227,11 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 <!-- PUBLISHED PAPER 5 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Dynamics of Local Productive Arrangements in the
-    Municipalities of Mato Grosso do Sul Considering
-    the Transformations of the Bioceanic Corridor
+    <strong>
+      Dynamics of Local Productive Arrangements in the
+      Municipalities of Mato Grosso do Sul Considering
+      the Transformations of the Bioceanic Corridor
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -238,7 +247,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -264,9 +272,8 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://doi.org/10.1371/journal.pone.0284023"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
 
@@ -274,8 +281,10 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 <!-- PUBLISHED PAPER 6 -->
 <div class="home-paper">
   <div class="home-paper-title">
-    Identification and Analysis of the Evolution
-    of Local Productive Arrangements
+    <strong>
+      Identification and Analysis of the Evolution
+      of Local Productive Arrangements
+    </strong>
   </div>
 
   <div class="home-paper-authors">
@@ -289,7 +298,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
   </div>
 
   <div class="home-paper-actions">
-
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -314,11 +322,11 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <a class="home-paper-pdf"
        href="https://jrap.scholasticahq.com/article/27454-identification-and-analysis-of-the-evolution-of-local-productive-arrangements"
        target="_blank" rel="noopener noreferrer">
-      <i class="fas fa-external-link-alt"></i> Published Article
+      <i class="fas fa-external-link-alt"></i> Published Paper
     </a>
-
   </div>
 </div>
+
 
 <details>
   <summary><strong>Pre-Doctoral Peer Reviewed Publications: click to view full list</strong></summary>
@@ -338,7 +346,57 @@ Here you can find the most recent list of my peer reviewed publications. For a c
 
 ## Policy Briefs and Reports
 
-**The impact of West Virginia University Federal Research Grant Funding on the state’s economy**, (2025), with Heather Stephens.  
-  *Regional Research Institute*, West Virginia University. [Link](https://researchrepository.wvu.edu/rri_pubs/226/)
+<!-- POLICY BRIEF 1 -->
+<div class="home-paper">
+  <div class="home-paper-title">
+    <strong>
+      The Impact of West Virginia University Federal Research
+      Grant Funding on the State's Economy
+    </strong>
+  </div>
+
+  <div class="home-paper-authors">
+    With Heather Stephens.
+    <span class="home-paper-status">2025.</span>
+  </div>
+
+  <div class="home-paper-authors">
+    <em>Regional Research Institute</em>,
+    West Virginia University.
+  </div>
+
+  <div class="home-paper-actions">
+
+    <details class="home-abstract">
+      <summary>Abstract</summary>
+      <div class="home-abstract-text">
+        This report evaluates the economic impact of federal
+        research funding received by West Virginia University's
+        four campuses. In 2023, WVU received $148 million in
+        federal research grants, excluding facilities and
+        administrative costs. These expenditures generated
+        approximately $250.2 million in gross economic output,
+        $139.4 million in GDP, $92.1 million in labor income,
+        and supported approximately 3,171 jobs across the state.
+        The analysis uses a multi-regional input-output model
+        to capture direct, indirect, and induced effects,
+        including economic activity extending beyond counties
+        hosting WVU campuses. Every dollar of federal research
+        spending generated approximately $1.69 in gross output
+        and $0.62 in labor income. The findings highlight the
+        contribution of university research funding to economic
+        activity and regional development in West Virginia.
+      </div>
+    </details>
+
+    <a class="home-paper-pdf"
+       href="https://researchrepository.wvu.edu/rri_reports/1/"
+       target="_blank" rel="noopener noreferrer">
+      <i class="fas fa-external-link-alt"></i> Published Report
+    </a>
+
+  </div>
+</div>
+
 
 <br><br>   <!-- adds empty vertical space -->  
