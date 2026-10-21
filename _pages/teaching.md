@@ -14,7 +14,7 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 **ECON 202: Regional Economics (Summer 2026)**
 - Class size: 9 students
 - Book: Regional Economics, Roberta Capello
-- [Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Regional Economics.pdf' | relative_url }})
+- [Teaching Evaluation]({{ '/assets/pdf/Evaluations - Regional Economics.pdf' | relative_url }})
 
 <!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
@@ -23,7 +23,7 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 **ECON 462: Urban Economics (Summer 2025)**
 - Class size: 26 students
 - Book: Lectures on Urban Economics, Jan K. Brueckner
-- [Urban Economics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Urban Economics.pdf' | relative_url }})
+- [Teaching Evaluation]({{ '/assets/pdf/Evaluations - Urban Economics.pdf' | relative_url }})
 
 <!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1lcTUxXwg8sfqoLBFxlvvspJW-7V_7Srq/view?usp=sharing)
@@ -32,7 +32,7 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 **ECON 225: Elementary Business and Economic Statistics (Fall 2025)**
 - Class size: 63 students
 - Book: Introductory Business Statistics. Alexander Holmes, Barbara Illowsky, and Susan Dean
-- [Business and Economics Statistics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Business and Economics Statistics.pdf' | relative_url }})
+- [Teaching Evaluation]({{ '/assets/pdf/Evaluations - Business and Economics Statistics.pdf' | relative_url }})
 
 <!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1pNf2G0cyrNmU00-4glj4ajLdJ_6kUMWl/view?usp=sharing)
@@ -41,7 +41,7 @@ Here are the record and materials for courses I taught. My <a href='https://driv
 **ECON 202: Principles of Macroeconomics (Summer 2024)**
 - Class size: 26 students
 - Book: Principles of Macroeconomics, Gregory Mankiw
-- [Principles of Macroeconomics — Teaching Evaluation (Download)]({{ '/assets/pdf/Evaluations - Macroeconomics.pdf' | relative_url }})
+- [Teaching Evaluation]({{ '/assets/pdf/Evaluations - Macroeconomics.pdf' | relative_url }})
 
 <!--
 - [Syllabus (Download)](https://drive.google.com/file/d/1JoDgySAWkIPTXwu77z5i2IYO60vuzQ09/view?usp=drive_link)
