@@ -1,11 +1,120 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Publications
 description: 
 nav: true
 nav_order: 2
 ---
+
+<style>
+/* Research sections */
+.home-research {
+  margin-top: 1.25rem;
+}
+
+.home-research-category {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+/* Individual papers - no separators */
+.home-paper {
+  margin-bottom: 1.6rem;
+  padding: 0;
+  border: none;
+}
+
+.home-paper-title {
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 0.2rem;
+}
+
+.home-paper-authors {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin-bottom: 0.55rem;
+}
+
+.home-paper-status {
+  color: var(--global-text-color-light, #777);
+  font-style: italic;
+}
+
+/* Buttons on the same line */
+.home-paper-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.home-abstract {
+  display: contents;
+}
+
+/* Abstract and PDF/Published Paper buttons */
+.home-abstract summary,
+.home-paper-pdf {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--global-text-color, #555);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--global-text-color, #333);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.4;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+/* Hide default arrow */
+.home-abstract summary {
+  list-style: none;
+}
+
+.home-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Add custom dropdown arrow */
+.home-abstract summary::after {
+  content: "▼";
+  font-size: 0.6rem;
+  margin-left: 0.2rem;
+  transition: transform 0.2s ease;
+}
+
+.home-abstract[open] summary::after {
+  transform: rotate(180deg);
+}
+
+/* Hover effect */
+.home-abstract summary:hover,
+.home-paper-pdf:hover {
+  color: var(--global-theme-color, #007bff);
+  border-color: var(--global-theme-color, #007bff);
+}
+
+/* Expanded abstract */
+.home-abstract-text {
+  flex-basis: 100%;
+  width: 100%;
+  padding: 0.8rem 0 0.3rem;
+  font-size: 0.92rem;
+  line-height: 1.7;
+  text-align: justify;
+}
+</style>
 
 Here you can find the most recent list of my peer reviewed publications. For a complete list of my citations you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a> profile.
 
@@ -24,7 +133,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <span class="home-paper-status">Working paper.</span>
   </div>
   <div class="home-paper-actions">
-    < ABSTRACT - Uncomment when ready
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
@@ -68,7 +176,6 @@ Here you can find the most recent list of my peer reviewed publications. For a c
     <span class="home-paper-status">Working paper.</span>
   </div>
   <div class="home-paper-actions">
-    < ABSTRACT - Uncomment when ready
     <details class="home-abstract">
       <summary>Abstract</summary>
       <div class="home-abstract-text">
