@@ -10,17 +10,93 @@ nav_order: 2
 Here you can find the most recent list of my peer reviewed publications. For a complete list of my citations you can check my <a href='https://scholar.google.com/citations?user=g-H-RbMAAAAJ&hl=en'>Google Scholar</a> profile.
 
 
-## Publications and R&R
+## Publications and R&R's
 
 ## In press and R&R
 
+<!-- PAPER 1 -->
+<div class="home-paper">
+  <div class="home-paper-title">
+    Traffic Safety Externalities of Urban Construction: Evidence from New York City
+  </div>
+  <div class="home-paper-authors">
+    With Brad Humphreys and Heather Stephens.
+    <span class="home-paper-status">Working paper.</span>
+  </div>
+  <div class="home-paper-actions">
+    < ABSTRACT - Uncomment when ready
+    <details class="home-abstract">
+      <summary>Abstract</summary>
+      <div class="home-abstract-text">
+        Urban development and redevelopment, through building construction, demolition,
+        and renovation, are essential to accommodate urban growth and modernize
+        infrastructure. However, these processes can generate unintended externalities,
+        including increased traffic collisions, injuries, and fatalities. This study examines
+        the impact of urban development, measured through construction permit activity, on
+        vehicle collisions in New York City (NYC) from 2013 to 2018. Using data at the census
+        block level, we find that construction sites are associated with a 2% increase in the
+        number of collisions, an 11% increase in injuries, and a 10% increase in fatalities.
+        Cyclists and pedestrians are particularly vulnerable. Heterogeneous effects reveal
+        that new construction and building demolition represent the most disruptive events.
+        High concentrations of construction sites also amplify risks. The estimated marginal
+        costs of these construction-related traffic disruptions range from $1,215 to $6,471 per
+        NYC resident. These findings emphasize the need for optimized construction permit
+        management and targeted urban planning to mitigate the social costs associated with
+        urban growth.
+      </div>
+    </details>
+
+    <!-- DRAFT PDF - Uncomment when ready
+    <a class="home-paper-pdf"
+       href="INSERT_PDF_URL"
+       target="_blank" rel="noopener noreferrer">
+      <i class="far fa-file-pdf"></i> Draft PDF
+    </a>
+    -->
+
+    <span class="home-paper-status">Revise and Resubmit Journal of Regional Science</span>
+  </div>
+</div>
+
+<!-- PAPER 2 -->
+<div class="home-paper">
+  <div class="home-paper-title">
+    Federal Research Grants and Regional Economic Impact: Evidence from West Virginia University
+  </div>
+  <div class="home-paper-authors">
+    With Heather Stephens.
+    <span class="home-paper-status">Working paper.</span>
+  </div>
+  <div class="home-paper-actions">
+    < ABSTRACT - Uncomment when ready
+    <details class="home-abstract">
+      <summary>Abstract</summary>
+      <div class="home-abstract-text">
+        This study estimates the economic impact of federal research grant funding at West Virginia University
+in 2023 using a multiregional input-output model for all 55 West Virginia counties. Excluding facilities
+and administrative costs, West Virginia University received $148 million in federal research funding.
+According to our estimates, the expenditure of these funds supported approximately 3,171 jobs, $92.1
+million in labor income, $250.2 million in statewide gross output, $139.4 million in gross domestic product
+(GDP), and $32.5 million in tax revenues. Indirect and induced effects accounted for a substantial share
+of the total economic impact. Although most impacts were concentrated in counties hosting WVU
+campuses, approximately 2.7% of labor income and 3.7% of gross output accrued to other West Virginia
+counties.
+      </div>
+    </details>
+
+    <!-- DRAFT PDF - Uncomment when ready
+    <a class="home-paper-pdf"
+       href="INSERT_PDF_URL"
+       target="_blank" rel="noopener noreferrer">
+      <i class="far fa-file-pdf"></i> Draft PDF
+    </a>
+    -->
+
+    <span class="home-paper-status">Forthcoming Journal of Regional Analysis and Policy</span>
+  </div>
+</div>
+
 ## Published Research
-
-<!-- ======================================= -->
-<!-- PUBLISHED RESEARCH -->
-<!-- ======================================= -->
-
-<h2>Published Research</h2>
 
 <!-- PUBLISHED PAPER 1 -->
 <div class="home-paper">
